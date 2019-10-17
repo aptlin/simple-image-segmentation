@@ -1,4 +1,4 @@
-# Simple image segmentation with Expectation-Maximization k-Means
+# Simple image segmentation with k-Means
 
 <table>
 <tr>
